@@ -10,5 +10,5 @@ Hi, I’m @dominiquedes
   
 - 😄 Pronouns: she/her
   
--⚡ Fun fact: ... I am allergic to pickles.
+- ⚡ Fun fact: ... I am allergic to pickles.
 
