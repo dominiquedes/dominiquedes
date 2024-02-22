@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @dominiquedes
+- 👀 I’m interested in ...
+    My interests lie in full stack development. I have a love for all parts of website development, I love the idea of visually seeing my work but at the same time I love the idea of knowing that my project runs because of the effort that I put in the backend. Along with that, I love creating random automation apps, I can get very lazy and forget to do other tasks in the day therefore I love the idea of having technology do these tiring and repeptitive tasks for me. An exmaple would be an app I created during the summer that would text me the prices of Ethereum and Solana every hour since I had stock in them and I couldn't check the market at every given moment. I love coding in Python, NextJS, Django, and Express.js. But outside of programming I love soccer! I was in fact on national televsion playing in the U17 Women's Concacaf for Haiti in 2024 scoring a goal and getting an assist, and I plan to participte in the U20s for Haiti in 2025.
+- 🌱 I’m currently learning ...
+    I am currently learning Java for school, we are diving into other the basics of programming in Java using Greenfoot Java. I do already have the basics of Java down and understand the language in it's entiriy but I want to learn how to execute this knowledge in a code editor. Therefore, I am using my freetime afterschool when I'm not training to learn more and more about Java and make more projects.
+- 💞️ I’m looking to collaborate on ...
+    Anything that would make an impact. I love solving problems and I love working with people as driven as me to solve these issues. I also love to collaborate on any automation apps, I love the idea of being able to have on less thing to worry about using technology.
+- 📫 How to reach me ...
+    You can email me at: dominiquedesertb@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+    I am allergic to pickles.
+<!---
+dominiquedes/dominiquedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
