@@ -5,7 +5,7 @@ I am a **fullstack** developer and aspiring **data scientist** from New York. I 
 My work is very diverse. Ranginng from software engineering to machine learning, I love creating tools and working with data sets. 
 
 ### what i am working on 
-currently competing in amplicode - hope that i can win! [project](https://github.com/dominiquedes/notemapai]
+currently competing in amplicode - hope that i can win! [project](https://github.com/dominiquedes/notemapai)
 
 ### tech stack 
 Languages: Python, JavaScript
