@@ -1,19 +1,19 @@
 # hey im dominique desert
 
-I am a **fullstack** developer and aspiring **data scientist** from New York. I have a passion for technology and learning about computers in general. At 15, this summer, I sold my first app CoreIdea and I have been building ever since 
+i am a **fullstack** developer and aspiring **data scientist** from New York. i have a passion for technology and learning about computers in general. at 15, this summer, I sold my first app CoreIdea and i have been building ever since 
 
-My work is very diverse. Ranginng from software engineering to machine learning, I love creating tools and working with data sets. 
+my work is very diverse. ranginng from software engineering to machine learning, i love creating tools and working with data sets. 
 
 ### what i am working on 
 currently competing in amplicode - hope that i can win! [project](https://github.com/dominiquedes/notemapai)
 
 ### tech stack 
-Languages: Python, JavaScript
-Frontend: React, Next.js
-Backend: Flask, Node.js, Django
-Databases: Firebase, Firestore, MongoDB, Supabase
-ML Tools: scikit-learn, TensorFlow, PCA, XGBoost
-Other: Git, PyPI, Arduino, Fusion 360
+- languages: python, javascript
+- frontend: react, next.js
+- backend: flask, node.js, django
+- databases: firebase, firestore, mongodb, supabase
+- ml/ds/ai tools: scikit-learn, tensorflow, xgboost, pandas, numpy, matplotlib, huggingface
+-	other: git, arduino, fusion 360 
 
 ### what i am learning 
 neural network optimization and machine learning
