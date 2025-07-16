@@ -1,6 +1,6 @@
 # hey im dominique desert
 
-i am a **fullstack** developer and aspiring **data scientist** from New York. i have a passion for technology and learning about computers in general. at 15, this summer, I sold my first app CoreIdea and i have been building ever since 
+i am a **fullstack** developer with a passion for different cs concentrations from New York. i have a passion for technology and learning about computers in general. at 15, this summer, I sold my first app CoreIdea and i have been building ever since 
 
 my work is very diverse. ranginng from software engineering to machine learning, i love creating tools and working with data sets. 
 
