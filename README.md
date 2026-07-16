@@ -1,11 +1,11 @@
 # hey im dominique desert
 
-i am a **fullstack** developer with a passion for different cs concentrations from New York. i have a passion for technology and learning about computers in general. at 15, this summer, I sold my first app CoreIdea and i have been building ever since 
+i am a **fullstack** developer and **computer engineer** with a passion for different cs and engineering concentrations from New York. I have a passion for technology and learning about computers in general. I sold my first app CoreIdea at 15 and have been building projects ever since.
 
-my work is very diverse. ranginng from software engineering to machine learning, i love creating tools and working with data sets. 
+my work is very diverse. ranginng from software engineering to electrical engineering, i love creating tools and working with data sets. 
 
 ### what i am working on 
-currently competing in amplicode - hope that i can win! [project](https://youtu.be/OOiVfOrjJDg?si=2jBxu8L-eEp8MP78)
+currently researching on machine learning and computer vision
 
 ### tech stack 
 - languages: python, javascript
@@ -16,4 +16,4 @@ currently competing in amplicode - hope that i can win! [project](https://youtu.
 -	other: git, arduino, fusion 360 
 
 ### what i am learning 
-neural network optimization and machine learning
+C, computer architecture, computer vision, machine learning
