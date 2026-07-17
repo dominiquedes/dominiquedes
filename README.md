@@ -1,6 +1,6 @@
 # hey im dominique desert
 
-i am a **fullstack** developer and **computer engineer** with a passion for different cs and engineering concentrations from New York. I have a passion for technology and learning about computers in general. I sold my first app CoreIdea at 15 and have been building projects ever since.
+i am a **computer engineering student** with a passion for different cs and engineering concentrations from New York. I have a passion for technology and learning about computers in general. I sold my first app CoreIdea at 15 and have been building projects ever since.
 
 my work is very diverse. ranginng from software engineering to electrical engineering, i love creating tools and working with data sets. 
 
